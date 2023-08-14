@@ -1,0 +1,3 @@
+1a, problem 8:
+- Unclear that it's the digit _position_
+- Unclear that they need to use arithmetic operations to extract the nth digit
