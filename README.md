@@ -13,9 +13,9 @@ AddisCoder X is a 3-week online computer science course designed to introduce hi
 
 ## Course Details
 
-- **Duration:** 3 weeks
+- **Duration:** 2 weeks
 - **Format:** Live Zoom sessions, coding exercises, assignments, and discussions
-- **Schedule:** [Link to Course Schedule](/schedule.md)
+- **Schedule:** https://amdebirhan.notion.site/AddisCoder_X-ce1b84dddffa4658b3af96be525a94ca?pvs=4
 
 ## Feature:
 ****- AddisCoder X - ** Use the same exact course matterials of Addiscoder 2023 and also add some additinal feautres **
